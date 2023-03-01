@@ -61,3 +61,5 @@ Additionally, an open source model could address several cons of the Baofeng rad
 * Compatibility issues with certain accessories and software
 
 However, it is worth noting that the Baofeng radio also has a confusing user interface, lacks regular updates and bug fixes, and may not be as compatible with other devices as more advanced radios. Overall, while the Baofeng radio is a good choice for users who prioritize affordability and ease of use, an open source model could offer greater flexibility and functionality to a wider range of users.
+
+A potential feature we could add to an open source version of the Baofeng radio is an advanced scanning feature that could save the scans to memory. Additionally, we could save a clip of each scan, including the CTCSS tone and times of day that the channel or repeater was active. This would offer users greater functionality and make it easier to keep track of active channels and repeaters. An open source model could provide the flexibility and customization options needed to incorporate this feature, as well as others suggested by the community.
